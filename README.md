@@ -1,2 +1,2 @@
-docker build --tag angular-filemanager .
+docker build --tag filemanager .
 
